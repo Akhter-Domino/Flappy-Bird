@@ -1,7 +1,5 @@
-# Flappy Bird Built in Python
-
-## Introduction
-Flappy Bird is a simple yet addictive game where the player controls a bird that must navigate through gaps between pipes. This project is implemented in Python using the `pygame` library.
+# Flappy Bird 
+Flappy Bird built in Python is a simple yet addictive game where the player controls a bird that must navigate through gaps between pipes. This project is implemented in Python using the `pygame` library.
 
 ## Requirements
 Ensure you have Python installed along with `pygame`:
