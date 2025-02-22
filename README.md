@@ -14,4 +14,4 @@ A basic implementation involves:
 - Detecting collisions
 - Keeping track of the score
 
-However, It can be enhanced by adding a background music, a rotating function on the bird, addings difficulty levels etc.
+However, It can be enhanced by adding a background music, a rotating function on the bird, adding difficulty levels etc.
